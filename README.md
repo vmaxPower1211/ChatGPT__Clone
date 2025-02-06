@@ -62,5 +62,5 @@ OPENAI_API_KEY=your_api_key
 Pull requests welcome. Read `README.md`
 
 ## Web Interface
-https://127.0.0.1:8000/admin
-https://127.0.0.1:8000
+- https://127.0.0.1:8000/admin
+- https://127.0.0.1:8000
